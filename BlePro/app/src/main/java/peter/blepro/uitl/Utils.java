@@ -1,9 +1,9 @@
-package ichronocloud.blepro.uitl;
+package peter.blepro.uitl;
 
 import android.bluetooth.BluetoothDevice;
 import android.content.IntentFilter;
 
-import ichronocloud.blepro.server.BluetoothLeService;
+import peter.blepro.server.BluetoothLeService;
 
 
 /**

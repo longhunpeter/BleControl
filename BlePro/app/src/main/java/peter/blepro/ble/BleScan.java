@@ -1,4 +1,4 @@
-package ichronocloud.blepro.ble;
+package peter.blepro.ble;
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothAdapter.LeScanCallback;

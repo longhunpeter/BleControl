@@ -1,4 +1,4 @@
-package ichronocloud.blepro;
+package peter.blepro;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

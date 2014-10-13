@@ -1,4 +1,4 @@
-package ichronocloud.blepro.ble;
+package peter.blepro.ble;
 
 import android.content.BroadcastReceiver;
 import android.content.ComponentName;
@@ -8,9 +8,9 @@ import android.content.ServiceConnection;
 import android.os.IBinder;
 import android.util.Log;
 
-import ichronocloud.blepro.listener.BleOperationListener;
-import ichronocloud.blepro.server.BluetoothLeService;
-import ichronocloud.blepro.uitl.Utils;
+import peter.blepro.listener.BleOperationListener;
+import peter.blepro.server.BluetoothLeService;
+import peter.blepro.uitl.Utils;
 
 /**
  * Created by lxl on 2014/8/22.

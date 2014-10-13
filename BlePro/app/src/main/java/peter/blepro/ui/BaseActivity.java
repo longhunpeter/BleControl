@@ -1,4 +1,4 @@
-package ichronocloud.blepro.ui;
+package peter.blepro.ui;
 
 import android.app.Activity;
 import android.os.Bundle;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package ichronocloud.blepro.server;
+package peter.blepro.server;
 
 import android.app.Service;
 import android.bluetooth.BluetoothAdapter;
@@ -35,8 +35,6 @@ import android.util.Log;
 
 import java.util.List;
 import java.util.UUID;
-
-import ichronocloud.blepro.uitl.Utils;
 
 /**
  * Service for managing connection and data communication with a GATT server hosted on a
